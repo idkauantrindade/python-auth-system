@@ -40,3 +40,9 @@ The system is **CLI-based** and automatically initializes the database and table
 
 ```bash
 git clone https://github.com/idkauantrindade/python-auth-system.git
+```
+2. Install the package
+
+```bash
+pip install mysql-connector-python bcrypt
+```
